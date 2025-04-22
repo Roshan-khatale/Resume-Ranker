@@ -1,0 +1,8 @@
+model:
+  type: logistic_regression
+  epochs: 10
+  seed: 42
+
+data:
+  path: data/
+  test_split: 0.2
